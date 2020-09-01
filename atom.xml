@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vietduc01100001.github.io/</id>
     <title>vietduc01100001 Blog</title>
-    <updated>2020-05-02T00:00:00.000Z</updated>
+    <updated>2020-09-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://vietduc01100001.github.io/"/>
     <subtitle>vietduc01100001 Blog</subtitle>
     <icon>https://vietduc01100001.github.io/img/favicon.ico</icon>
     <rights>Copyright © 2020 vietduc01100001</rights>
+    <entry>
+        <title type="html"><![CDATA[Conditional không cần if else hoặc switch trong JavaScript]]></title>
+        <id>Conditional không cần if else hoặc switch trong JavaScript</id>
+        <link href="https://vietduc01100001.github.io/2020/09/01/conditional-khong-can-if-else-hoac-switch-trong-javascript"/>
+        <updated>2020-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Một bài note nhanh và ngắn chia sẻ về sự hay ho của JavaScript. Mới đây mình gặp một tình huống nho nhỏ như sau.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 terminal tools giúp bạn tăng hiệu suất làm việc]]></title>
         <id>10 terminal tools giúp bạn tăng hiệu suất làm việc</id>

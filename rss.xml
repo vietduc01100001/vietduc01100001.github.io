@@ -4,10 +4,17 @@
         <title>vietduc01100001 Blog</title>
         <link>https://vietduc01100001.github.io/</link>
         <description>vietduc01100001 Blog</description>
-        <lastBuildDate>Sat, 02 May 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2020 vietduc01100001</copyright>
+        <item>
+            <title><![CDATA[Conditional không cần if else hoặc switch trong JavaScript]]></title>
+            <link>https://vietduc01100001.github.io/2020/09/01/conditional-khong-can-if-else-hoac-switch-trong-javascript</link>
+            <guid>Conditional không cần if else hoặc switch trong JavaScript</guid>
+            <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Một bài note nhanh và ngắn chia sẻ về sự hay ho của JavaScript. Mới đây mình gặp một tình huống nho nhỏ như sau.]]></description>
+        </item>
         <item>
             <title><![CDATA[10 terminal tools giúp bạn tăng hiệu suất làm việc]]></title>
             <link>https://vietduc01100001.github.io/2020/05/02/10-terminal-tools-giup-ban-tang-hieu-suat-lam-viec</link>
