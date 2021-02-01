@@ -7,7 +7,7 @@
         <lastBuildDate>Tue, 01 Sep 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2020 Duc Nguyen</copyright>
+        <copyright>Copyright © 2021 Duc Nguyen</copyright>
         <item>
             <title><![CDATA[Conditional không cần if else hoặc switch trong JavaScript]]></title>
             <link>https://hellovietduc.github.io/2020/09/01/conditional-khong-can-if-else-hoac-switch-trong-javascript</link>
