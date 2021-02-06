@@ -4,10 +4,17 @@
         <title>Duc Nguyen Blog</title>
         <link>https://hellovietduc.github.io/</link>
         <description>Duc Nguyen Blog</description>
-        <lastBuildDate>Tue, 01 Sep 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Duc Nguyen</copyright>
+        <item>
+            <title><![CDATA[10 bài viết hay nhất mình đọc trong năm 2020]]></title>
+            <link>https://hellovietduc.github.io/2021/02/06/10-bai-viet-hay-nhat-minh-doc-trong-nam-2020</link>
+            <guid>10 bài viết hay nhất mình đọc trong năm 2020</guid>
+            <pubDate>Sat, 06 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Đến hẹn lại lên, mình tổng hợp 10 bài viết hay nhất mà mình đã đọc trong năm 2020.]]></description>
+        </item>
         <item>
             <title><![CDATA[Conditional không cần if else hoặc switch trong JavaScript]]></title>
             <link>https://hellovietduc.github.io/2020/09/01/conditional-khong-can-if-else-hoac-switch-trong-javascript</link>
