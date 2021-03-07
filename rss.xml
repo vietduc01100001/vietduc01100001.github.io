@@ -4,15 +4,15 @@
         <title>Duc Nguyen Blog</title>
         <link>https://hellovietduc.github.io/</link>
         <description>Duc Nguyen Blog</description>
-        <lastBuildDate>Sun, 07 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Duc Nguyen</copyright>
         <item>
             <title><![CDATA[Adaptive bitrate streaming]]></title>
-            <link>https://hellovietduc.github.io/2021/02/07/adaptive-bitrate-streaming</link>
+            <link>https://hellovietduc.github.io/2021/03/07/adaptive-bitrate-streaming</link>
             <guid>Adaptive bitrate streaming</guid>
-            <pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[What is adaptive bitrate streaming? How does it work? And what benefits does it offer?]]></description>
         </item>
         <item>
