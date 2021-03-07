@@ -2,12 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hellovietduc.github.io/</id>
     <title>Duc Nguyen Blog</title>
-    <updated>2021-02-06T00:00:00.000Z</updated>
+    <updated>2021-02-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hellovietduc.github.io/"/>
     <subtitle>Duc Nguyen Blog</subtitle>
     <icon>https://hellovietduc.github.io/img/favicon.png</icon>
     <rights>Copyright © 2021 Duc Nguyen</rights>
+    <entry>
+        <title type="html"><![CDATA[Adaptive bitrate streaming]]></title>
+        <id>Adaptive bitrate streaming</id>
+        <link href="https://hellovietduc.github.io/2021/02/07/adaptive-bitrate-streaming"/>
+        <updated>2021-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is adaptive bitrate streaming? How does it work? And what benefits does it offer?]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 bài viết hay nhất mình đọc trong năm 2020]]></title>
         <id>10 bài viết hay nhất mình đọc trong năm 2020</id>
