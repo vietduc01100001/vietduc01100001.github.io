@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{88:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[]}')}}]);
