@@ -12,7 +12,9 @@
 <url> <loc>https://duckwho.codes/posts/esmoduleinterop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/posts/exponential-backoff/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/posts/khi-require-mot-file-n-lan-thi-doan-code-ben-trong-file-do-chay-bao-nhieu-lan/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/posts/mime-types-are-not-stored-in-the-filesystem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/posts/review-sach-the-little-go-book/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/tag/mime</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/tag/algorithm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/tag/awesome</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/tag/go</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -28,4 +30,5 @@
 <url> <loc>https://duckwho.codes/series/top-10-posts-of-the-year</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/page/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
