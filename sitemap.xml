@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://duckwho.codes/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/all-series</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/pages/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/posts/10-bai-viet-hay-nhat-minh-doc-trong-nam-2019/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/posts/10-bai-viet-hay-nhat-minh-doc-trong-nam-2020/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -23,11 +23,9 @@
 <url> <loc>https://duckwho.codes/tag/streaming</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/tag/terminal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/tag/typescript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/category/books</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/category/general</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/category/knowledge</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/category/today-i-learned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://duckwho.codes/category/tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/series/book-reviews</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/series/today-i-learned</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://duckwho.codes/series/top-10-posts-of-the-year</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://duckwho.codes/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
